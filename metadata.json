@@ -1,0 +1,6 @@
+{
+  "name": "Terraform Zero-Cloud Lab",
+  "description": "Master advanced Terraform without cloud bills or subscriptions. Interactive HCL2 execution simulator, LocalStack, Docker topologies, state surgery, native terraform test, and OPA policy guardrails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
